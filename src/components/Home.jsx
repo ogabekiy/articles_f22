@@ -4,9 +4,10 @@ import Navbar from "./Navbar";
 const Home = () => {
   return (
     <div>
-      <Navbar />
-      <Articles />
+      <Navbar/>
+      <Articles/>
     </div>
   );
 };
+
 export default Home;
